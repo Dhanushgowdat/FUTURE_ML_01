@@ -191,8 +191,7 @@ The XGBoost model achieved the best performance and was selected for deployment.
 ## ▶️ How to Run the Project Locally
 Clone the repository
 ```
-git clone https://github.com/Deepakchakra/FUTURE_ML_01.git
-```
+https://github.com/Dhanushgowdat/FUTURE_ML_01.git
 Navigate to the project folder
 ```
 cd FUTURE_ML_01
@@ -203,7 +202,7 @@ pip install -r requirements.txt
 ```
 Run the dashboard
 ```
-streamlit run dashboard/app.py
+python -m streamlit run dashboard/app.py
 ```
 
 ## 📷 Dashboard Preview 
