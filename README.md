@@ -221,10 +221,3 @@ Possible improvements for the system:
 - Add automated model retraining pipeline
 
 ## 👨‍💻 Author
-
-### Deepak Chakrasali
-
-Machine Learning & AI Enthusiast
-
-### GitHub
-https://github.com/Deepakchakra
